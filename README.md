@@ -36,4 +36,4 @@ Prueba los métodos `ingresar()`, `modificar()` e `imprimir()` con un arreglo de
 Para compilar el proyecto, navega al directorio `src` y ejecuta el siguiente comando:
 
 ```bash
-javac ProyectoArreglos.java
+javac App.java
